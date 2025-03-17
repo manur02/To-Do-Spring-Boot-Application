@@ -6,7 +6,7 @@ This is a Spring Boot application for managing tasks. It allows users to:
 - Delete tasks
 - Toggle task completion status
 
-## The application follows an MVC architecture, using Thymeleaf for the frontend, Spring Boot for the backend, and MySQL as the database.
+### The application follows an MVC architecture, using Thymeleaf for the frontend, Spring Boot for the backend, and MySQL as the database.
 
 ## Technologies Used
 - Spring Boot
